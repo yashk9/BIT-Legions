@@ -76,4 +76,6 @@ Happy coding!
 int main()
 {
 
+	cout<<"Put your function calls here!";
+
 }
