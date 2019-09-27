@@ -9,6 +9,6 @@ Steps to complete the task
 5 >  then open git bash and type "git add ."
 6 >  next type "git push origin master"
 7 >  enter username and password
----------------------------------------------------------------------------
+
 and the file is uploaded 
 now you just have to wait for the merge request from my side
