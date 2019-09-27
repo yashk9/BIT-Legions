@@ -12,6 +12,14 @@ Happy coding!
 	 Start your code here (where this comment ends).
 	 for ease comment your name email 
 */
+int kmph;
+void KMPH_2_MPS()
+{
+	//Formula: divide the speed value by 3.6
+	cout<<"Enter speed in KMPH: ";
+	cin>>kmph;
+	cout<<kmph/3.6<<" kmps";
+}
 
 
 
@@ -76,6 +84,9 @@ Happy coding!
 int main()
 {
 
-	cout<<"Put your function calls here!";
+	cout<<"Put your function calls here!"<<endl;
+
+	//Q.1
+	KMPH_2_MPS();
 
 }
