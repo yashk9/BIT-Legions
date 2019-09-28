@@ -27,7 +27,7 @@ void KMPH_2_MPS()
 	 Start your code here (where this comment ends).
 	 for ease comment your name email
 */
-int main()
+numberSwap()
 {
 	cout << "\n\n Swap two numbers without using third variable:\n";
 	cout << "---------------------------------------------------\n";
@@ -101,7 +101,8 @@ int main()
 
 	cout<<"Put your function calls here!"<<endl;
 
-	//Q.1
+	//karan
 	KMPH_2_MPS();
-
+	//futane
+	numberSwap();
 }
