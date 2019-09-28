@@ -64,7 +64,20 @@ numberSwap()
 	Start your code here (where this comment ends).
 	for ease comment your name email
 */
-
+void sum()
+{
+	cout<<"Enter 10 numbers to find the sum"<<endl;
+	int arr[10],s=0;
+	for(int i=0;i<10;i++)
+	{
+		cout<<"Enter "<<i+1<<"st Number="<<endl;
+		cin>>arr[i];
+		s=s+arr[i];
+	}
+	cout<<"Sum of all the numbers in the array="<<s<<endl;
+}
+//yashkumbhar21@gmail.com
+	
 
 
 /* Q6 ) Write a program in C++ to implement binary search.
@@ -105,4 +118,6 @@ int main()
 	KMPH_2_MPS();
 	//futane
 	numberSwap();
+	//yash
+	sum();
 }
